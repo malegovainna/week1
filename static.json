@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-    "X-Author": "i.malegova"
+    "X-Author": "i.malegova",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
